@@ -1,0 +1,6 @@
+key: 
+AIzaSyBuUl_s7fqXYnhCMd0MUTh3kBQG3rowSjY
+AIzaSyBuUl_s7fqXYnhCMd0MUTh3kBQG3rowSjY
+
+
+home Get url (category 0): https://youtube.googleapis.com/youtube/v3/videos?part=snippet%2CcontentDetails%2Cstatistics&chart=mostPopular&maxResults=50&regionCode=US&videoCategoryId=0&key=[YOUR_API_KEY] HTTP/1.1
